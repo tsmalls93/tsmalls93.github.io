@@ -1,0 +1,146 @@
+{
+  "main": {
+    "name":"Tyler J. Small",
+    "occupation":"Software Engineer",
+    "description":"I am a problem solver, coder, and hacker",
+    "image":"profilepic.jpg",
+    "bio":"I am currently a senior at The University of Tennessee Knoxville for a bachelors in computer science. I work at Knoxville Utilities Board as an intern for web development. The software I work with at KUB includes Ember.js, Java web services, and PeopleSoft. In my own time I like to work with Python, and C/C++. Specifically, I enjoy writing code for machine learning, artificial intelligence, biology, robotics, and general scientific programming.",
+    "contactmessage":"Feel free to contact me",
+    "email": "tsmall@smallinitiatives.com",
+    "phone": "(865) 320-5621",
+    "address":{
+      "street":"8413 Carl Valentine Circle",
+      "city":"Knoxville",
+      "state":"Tennessee",
+      "zip": "37931"
+    },
+    "website": "https://tsmalls93.github.io",
+    "resumedownload":"https://tsmalls93.github.io",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/ty.small",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/tSmalls_",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tyler-small-283958186/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/tsmalls93",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"The University of Tennesse",
+        "degree":"Bachelors in Computer Science",
+        "graduated":"August 2019",
+        "description":"Introduced me to software development with C/C++. Focused on artificial intelligence, scientific programming, and security."
+      }
+    ],
+    "work":[
+      {
+        "company":"Knoxville Utilities Board",
+        "title":"Programmer and Systems Analyst Intern",
+        "years":"May 2018 - Present",
+        "description":"Web development with Ember.js, Java web services, and PeopleSoft"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"70%",
+        "image":"git.png"
+      },
+      {
+        "name":"JavaScript",
+        "level":"75%",
+        "image":"javascript.png"
+      },
+      {
+        "name":"Ember.js",
+        "level":"75%",
+        "image":"ember.png"
+      },
+      {
+        "name":"CSS/SCSS",
+        "level":"40%",
+        "image":"sass.png"
+      },
+      {
+        "name":"HTML",
+        "level":"80%",
+        "image":"html.png"
+      },
+      {
+        "name":"Python",
+        "level":"90%",
+        "image":"python.png"
+      },
+      {
+        "name":"Matlab",
+        "level":"25%",
+        "image":"matlab.png"
+      },
+      {
+        "name":"C/C++",
+        "level":"85%",
+        "image":"cpp.png"
+      },
+      {
+        "name":"Java",
+        "level":"60%",
+        "image":"java.png"
+      },
+      {
+        "name":"PeopleSoft",
+        "level":"25%",
+        "image":"peoplesoft.webp"
+      },
+      {
+        "name":"Robot Operating System",
+        "level":"60%",
+        "image":"ros.png"
+      },
+      {
+        "name": "VHDL",
+        "level":"40%",
+        "image":"vivado.png"
+      },
+      {
+        "name":"TensorFlow",
+        "level":"60%",
+        "image":"tensorflow.png"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Connect 4 AI",
+        "category":"An artificial intelligence for Connect 4 in C++",
+        "image":"connect4.jpeg",
+        "url":"https://www.github.com/tsmalls93/Connect-4"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"No testimonials yet. Have something nice to say about me? Let me know!",
+        "user":"Tyler J. Small"
+      }
+    ]
+  }
+}
