@@ -40,7 +40,9 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"My main interests are scientific programming, artificial intelligence, and robotics.
+    However, I am skilled in many different languages and libraries.
+    The following is a list of the most relevant ones along with a skill level gauge for each.",
     "education":[
       {
         "school":"The University of Tennesse",
